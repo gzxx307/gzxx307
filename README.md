@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tech+otakus+save+the+world.;Love+games+forever.)](https://git.io/typing-svg)
