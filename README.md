@@ -31,8 +31,8 @@ GZ 来自“鸽子”（因为我想到了经常放鸽子www），XX 则是取�
 - **[WindowPilot](https://github.com/gzxx307/WindowPilot)**：Windows 窗口管理工具。
 - **[Mario-Survivors](https://github.com/gzxx307/Mario-Survivors)**: 魔改版经典马里奥游戏，融入了类吸血鬼幸存者的RogueLite玩法，主打的就是一个爽。（更新？什么是更新（）
 - **[GZXX-s-Tools](https://github.com/gzxx307/GZXX-s-Tools)**: 可以用在源代码里的一些自制小代码，避免一遍一遍造轮子。（可能这种东西早就有了，如果你有看到更好的，发给我，这样我就不需要自己写了www）
-- **Tizaria（制作中）**: 一个什么美术资产都没有的固定轨下落式音游，自带简单易用的制谱器（核心就是这个制谱器，希望可以降低制谱门槛）。
-- **EasyChat（制作中）**: 基于C++自带的WebSocket库写的控制台小程序，之后打算加上UI，可能还是会用网页套壳。
+- **[Tizaria](https://github.com/gzxx307/Tizaria)**: 一个什么美术资产都没有（除了图标）的固定轨下落式音游，自带简单易用的制谱器（核心就是这个制谱器，希望可以降低制谱门槛）。
+- **EasyChat**: 基于C++自带的WebSocket库写的控制台小程序，之后打算加上UI，可能还是会用网页套壳。
 - **[ShowYourKeys-1.21.1-NeoForge](https://github.com/gzxx307/ShowYourKeys-1.21.1-NeoForge)**：想做个 Mod 显示方块交互和键位，帮助新手（比如我拉的舍友）。如果有有经验的大佬，求指点！
 
 > ~~更多项目？鸽着呢。~~
