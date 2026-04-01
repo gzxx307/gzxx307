@@ -34,6 +34,7 @@ GZ 来自“鸽子”（因为我想到了经常放鸽子www），XX 则是取�
 - **[Tizaria](https://github.com/gzxx307/Tizaria)**: 一个什么美术资产都没有（除了图标）的固定轨下落式音游，自带简单易用的制谱器（核心就是这个制谱器，希望可以降低制谱门槛）。
 - **EasyChat**: 基于C++自带的WebSocket库写的控制台小程序，之后打算加上UI，可能还是会用网页套壳。
 - **[ShowYourKeys-1.21.1-NeoForge](https://github.com/gzxx307/ShowYourKeys-1.21.1-NeoForge)**：想做个 Mod 显示方块交互和键位，帮助新手（比如我拉的舍友）。如果有有经验的大佬，求指点！
+- **[GZXX_Blog](https://github.com/gzxx307/GZXX_Blog)**：从零手搓的个人博客，里面放的是自己的一些学习笔记以及心得。
 
 > ~~更多项目？鸽着呢。~~
 
